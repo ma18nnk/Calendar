@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="opean">Open</string>
+    <string name="close">Close</string>
+</resources>
